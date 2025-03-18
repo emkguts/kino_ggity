@@ -22,7 +22,7 @@ defmodule KinoGgity.MixProject do
   defp deps do
     [
       {:ggity, github: "emkguts/ggity"},
-      {:kino, "~> 0.6"}
+      {:kino, "~> 0.15.0"}
     ]
   end
 end
